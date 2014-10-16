@@ -1,0 +1,7 @@
+Go on : 
+https://www.facebook.com/events/birthdays
+Save it with "Anniversaires.htm" as name.
+
+Then Run 
+grep -o -E "aria-label=\"[A-Za-z ]*\([0-9]*\/[0-9]*\)" Anniversaires.htm | sed "s/aria-label=\"\([^(]*\)(\([^)]*\))/\2 -5 Days Anniversaire de \1/g" 
+And put the output into your calendar.txt
