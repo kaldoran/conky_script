@@ -3,9 +3,6 @@
 # Day in french format : Day/Month
 # The program will call back that you need to do "Thing to remember" with the delay apply on your date
 
-10/10 -5 Days Grand mother birthday
-14/10 -5 Days Anniversaire Papy Pierre
-16/10 -5 Days Anniversaire Julien
 17/10 -6 Days Rendre rapport plannification
 20/10 -5 Days Envoyer doc Trajectoire prof
 23/10 -5 Days Envoyer diapo anglais
